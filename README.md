@@ -9,16 +9,31 @@
 
 # 💫 About Me
 
-<img align="right" height="160" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif"/>
+<table>
+<tr>
+<td width="65%">
 
 🎓 B.Tech Computer Science Engineering Student  
-🤖 Passionate about AI/ML, NLP & Data Science  
-💼 Full Stack Developer Intern at FoundIt (Monster India)  
-🚀 Building intelligent applications using Python & TensorFlow  
-📚 Exploring Deep Learning, LLMs & Generative AI  
-🎨 Also interested in UI/UX, Design & Creative Development  
 
----
+🤖 Passionate about AI/ML, NLP & Data Science  
+
+💼 Full Stack Developer Intern at FoundIt (Monster India)  
+
+🚀 Building intelligent applications using Python & TensorFlow  
+
+📚 Exploring Deep Learning, LLMs & Generative AI  
+
+🎨 Interested in UI/UX, Design & Creative Development  
+
+</td>
+
+<td width="35%">
+
+<img src="https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif" width="100%"/>
+
+</td>
+</tr>
+</table>
 
 # 🌐 Connect With Me
 
@@ -88,6 +103,7 @@
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sampurna1524&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
+
 <p align="center">
 <img src="https://streak-stats.demolab.com?user=Sampurna1524&theme=tokyonight&hide_border=true"/>
 </p>
@@ -125,7 +141,7 @@
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Sampurna1524&label=Profile%20Views&color=blueviolet&style=for-the-badge" />
+<img align="right" alt="coding" width="320" src="https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif">
 </p>
 
 ---
