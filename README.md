@@ -112,15 +112,6 @@
 </p>
 
 ---
-
-# 🔝 Top Contributed Repositories
-
-<p align="center">
-<img src="https://github-contributor-stats.vercel.app/api?username=Sampurna1524&limit=5&theme=tokyonight&combine_all_yearly_contributions=true"/>
-</p>
-
----
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Sampurna1524&label=Profile%20Views&color=blueviolet&style=for-the-badge" />
 </p>
