@@ -1,9 +1,11 @@
 <h1 align="center">Hi 👋, I'm Sampurna Roy</h1>
 <h3 align="center">AI/ML Engineer in Progress • Full Stack Developer • Data Science Explorer • Python Developer</h3>
 
+
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&pause=1000&color=8A2BE2&center=true&vCenter=true&width=700&lines=B.Tech+CSE+Student;AI%2FML+%26+Data+Science+Enthusiast;Full+Stack+Developer;Python+%7C+TensorFlow+%7C+NLP;Building+Cool+Projects+Everyday+🚀" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&pause=1000&color=8A2BE2&center=true&vCenter=true&width=900&lines=B.Tech+CSE+(AI%2FML)+Student;Software+Developer;Python+Developer;AI%2FML+%26+Data+Science+Developer+in+Progress;Python+%7C+TensorFlow+%7C+NLP;Building+Cool+Projects+Everyday+🚀" />
 </p>
+
 
 ---
 
