@@ -83,10 +83,7 @@
 
 # 📊 GitHub Analytics
 
-<p align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Sampurna1524&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sampurna1524&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
+<p align="center"> <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Sampurna1524&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" /> <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sampurna1524&layout=compact&theme=tokyonight&hide_border=true" /> </p>
 
 <p align="center">
 <img src="https://streak-stats.demolab.com?user=Sampurna1524&theme=tokyonight&hide_border=true"/>
