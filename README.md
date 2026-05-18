@@ -1,4 +1,3 @@
-```md
 <h1 align="center">Hi 👋, I'm Sampurna Roy</h1>
 <h3 align="center">AI/ML Enthusiast • Full Stack Developer • Data Science Explorer</h3>
 
@@ -132,4 +131,3 @@
 ---
 
 <h3 align="center">⭐ “Code. Create. Innovate.” ⭐</h3>
-```
