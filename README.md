@@ -92,9 +92,12 @@
 
 ---
 
-# 🏆 GitHub Trophies 
-<p align="center"> 
-  <img src="https://github-profile-trophy.vercel.app/?username=Sampurna1524&theme=algolia&no-frame=true&margin-w=10"/> 
+# 🏆 GitHub Trophies
+
+<p align="center">
+  <img 
+    src="https://github-profile-trophy.vercel.app/?username=Sampurna1524&theme=radical&no-frame=true&no-bg=true&margin-w=12&row=2&column=4" 
+  />
 </p>
 
 ---
