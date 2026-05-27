@@ -86,24 +86,16 @@
 # 📊 GitHub Analytics
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Sampurna1524&show_icons=true&theme=radical&hide_border=true&count_private=true&cache_seconds=1800"/>
-
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sampurna1524&layout=compact&theme=radical&hide_border=true&cache_seconds=1800"/>
-</p>
-
-<p align="center">
   <img width="70%" src="https://streak-stats.demolab.com?user=Sampurna1524&theme=radical&hide_border=true"/>
 </p>
 
 
 ---
 
-# 🏆 GitHub Trophies
-
-<p align="center">
-  <img width="90%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Sampurna1524&theme=github_dark" />
+# 🏆 GitHub Trophies 
+<p align="center"> 
+  <img src="https://github-profile-trophy.vercel.app/?username=Sampurna1524&theme=algolia&no-frame=true&margin-w=10"/> 
 </p>
-
 
 ---
 
